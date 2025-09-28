@@ -6,7 +6,7 @@
 ## 1. Integrantes da Equipe  
 - Fabricio da Silva Santos – 2319166 – Arquitetura e documentação  
 - Ana Rebeca Pereira dos Santos – 2326244 – Front-end / prototipação  
-- Maria Tainá Leitão de Castro – 23232806 – Front-end / prototipação  
+- Maria Tainá Leitão de Castro – 2323806 – Front-end / prototipação  
 - José Eliezer de Almeida Alves – 2326192 – Back-end / programação funcional  
 - Erisvan da Silva Ximenes – 2317584 – Back-end / testes e validação  
 
